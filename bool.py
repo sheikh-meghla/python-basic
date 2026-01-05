@@ -8,3 +8,11 @@ b = 5
 
 print(bool(a))
 print(bool(b))
+
+
+print(bool(()))
+print(bool({}))
+print(bool([]))
+print(bool(""))
+print(bool(None))
+print(bool(False))
