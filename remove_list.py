@@ -3,4 +3,6 @@ thislist.remove("Liza")
 thislist.pop(2)
 del thislist[0]
 
+#thislist.clear()
+ #[]  
 print(thislist)
