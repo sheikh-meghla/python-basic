@@ -14,3 +14,11 @@ for x in days:
 
 for x in range(9):
   print(x) 
+
+
+  adj = ["Sheikh", "SM", "Pro"]
+fruits = ["Nurani", "Rafi", "Liza"]
+
+for x in adj:
+  for y in fruits:
+    print(x, y)
