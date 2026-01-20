@@ -23,4 +23,3 @@ def myfunction(nam):
 
 print(myfunction("meghla"))
 
-
