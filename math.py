@@ -15,3 +15,25 @@ print(x)
 x = pow(4, 3)
 
 print(x)
+
+#
+
+import math
+
+x = math.sqrt(25)
+
+print(x)
+
+#
+
+x = math.ceil(1.4)
+y = math.floor(1.4)
+
+print(x)
+print(y)
+
+#
+
+x = math.pi
+
+print(x)
